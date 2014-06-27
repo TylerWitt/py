@@ -1,7 +1,7 @@
 # Tyler Witt
 # 6.27.14
 # collatz.py
-# ver 1.0
+# ver 1.1
 
 # This is a python function used to analyze the Collatz algorithm.
 
